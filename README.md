@@ -1,3 +1,5 @@
+![CodeWithUs 2021](img/logo-pic.svg "CodeWithUs 2021")
+
 # CodeWithUs 2021
 
 > **_For Participants of Hacktoberfest!_**
