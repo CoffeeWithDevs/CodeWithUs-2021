@@ -1,1 +1,9 @@
 @import url("https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;700&display=swap");
+
+
+.hero {
+    background: transparent url("../img/home-hero.jpg");
+    background-size: cover;
+    height: 40vw;
+    max-height: 1024px;
+}
